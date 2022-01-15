@@ -8,7 +8,7 @@ type: "featured"
 # meta description
 description: "This is meta description"
 # post draft
-draft: false
+draft: true
 ---
 
 
@@ -16,22 +16,22 @@ draft: false
 
 Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
 
-# Heading 1 
+# Heading 1
 <br>
 
-## Heading 2 
-
-<br>
-
-### Heading 3 
+## Heading 2
 
 <br>
 
-#### Heading 4 
+### Heading 3
 
 <br>
 
-##### Heading 5 
+#### Heading 4
+
+<br>
+
+##### Heading 5
 
 <br>
 

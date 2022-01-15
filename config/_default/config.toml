@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
-title = "Bigspring Light"
+baseURL = "http://www.itmconsultzm.com/"
+title = "ITM Consult (ZM)"
 theme = "bigspring-light"
 # post pagination
 paginate = "3"

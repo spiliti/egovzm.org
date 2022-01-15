@@ -7,12 +7,12 @@ weight = 1
 [[main]]
 name = "Blog"
 url = "blog"
-weight = 2
+weight = 3
 
 [[main]]
-name = "Pricing"
-url = "pricing"
-weight = 3
+name = "What we do"
+url = "/"
+weight = 2
 
 [[main]]
 name = "Contact"
@@ -20,39 +20,39 @@ url = "contact"
 weight = 4
 
 [[main]]
-name = "FAQ"
-url = "faq"
-weight = 5
+#name = "FAQ"
+#url = "faq"
+#weight = 5
 
-# footer menu left
+## footer menu left
+#[[footer_left]]
+#name = "About Us"
+#url = "#"
+
+#[[footer_left]]
+#name = "Quick Start"
+#url = "#"
+
+#[[footer_left]]
+#name = "Pricing"
+#url = "pricing"
+
+
+## footer menu middle
+#[[footer_middle]]
+#name = "Pricing"
+#url = "pricing"
+
+#[[footer_middle]]
+#name = "Platform"
+#url = "#"
+
+#[[footer_middle]]
+#name = "Features"
+#url = "#"
+
+## footer menu right
 [[footer_left]]
-name = "About Us"
-url = "#"
-
-[[footer_left]]
-name = "Quick Start"
-url = "#"
-
-[[footer_left]]
-name = "Pricing"
-url = "pricing"
-
-
-# footer menu middle
-[[footer_middle]]
-name = "Pricing"
-url = "pricing"
-
-[[footer_middle]]
-name = "Platform"
-url = "#"
-
-[[footer_middle]]
-name = "Features"
-url = "#"
-
-# footer menu right
-[[footer_right]]
 name = "Privacy Policy"
 url = "privacy-policy"
 
@@ -60,6 +60,6 @@ url = "privacy-policy"
 name = "Terms & Conditions"
 url = "terms-conditions"
 
-[[footer_right]]
-name = "FAQ"
-url = "faq"
+#[[footer_right]]
+#name = "FAQ"
+#url = "faq"
